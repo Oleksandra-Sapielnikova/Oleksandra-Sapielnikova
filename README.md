@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oleksandra-Sapielnikova
 - 👀 I’m interested in coding, cf, writting.
-- 🌱 I’m currently learning frontend developing.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning software development.
+- 🦄 JS, React, PHP, Java.
 - 📫 How to reach me oleksandra.sapielnikova@gmail.com
 
 <!---
